@@ -1,7 +1,13 @@
-# CHUKWUMA UGOBUEZE — MIT 8103
+# Inventory and Supply Chain Management System
 
-Student ID: 30164952
+CHUKWUMA UGOBUEZE · Student ID 30164952
 
-Inventory and Supply Chain Management System – A database system to track warehouses, stock levels, suppliers, purchase orders, shipments, and stock transfers.
+The portfolio uses fictional records for Inventory and Supply Chain Management System.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](UGOBUEZE_CHUKWUMA_30164952_FinalSummary.md) · [PDF](UGOBUEZE_CHUKWUMA_30164952_FinalSummary.pdf)
